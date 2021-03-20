@@ -99,7 +99,8 @@
 
 </div>
 
-<div class="fds1dfs" style="float: top;margin-left: 100px;margin-top: -400px;padding-right:-200px " >
+<div class="fds1dfs" style="float: top;margin-left: 100px;margin-top: -400px;padding-right:-
+200px " >
 
     <font class="back font30" style="margin-right: 20px;">描述：</font></br>
     <font class="red font30" style="margin-top: 100px;margin-right: 500px"  >
